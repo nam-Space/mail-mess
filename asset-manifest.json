@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mail-mess/static/css/main.cf29e463.css",
+    "main.js": "/mail-mess/static/js/main.fdb4a404.js",
+    "index.html": "/mail-mess/index.html",
+    "main.cf29e463.css.map": "/mail-mess/static/css/main.cf29e463.css.map",
+    "main.fdb4a404.js.map": "/mail-mess/static/js/main.fdb4a404.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf29e463.css",
+    "static/js/main.fdb4a404.js"
+  ]
+}
